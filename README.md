@@ -1,1 +1,1 @@
-# cs428_w2016
+# Welcome to the Winter 2016 CS 428 GitHub page
